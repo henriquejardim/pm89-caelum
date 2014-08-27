@@ -5,5 +5,6 @@ public class Teste
 	Console.writeLine("Olá");
 	Console.WriteLine("Caelum");
 	Console.WriteLine("Branch Teste");
+	Console.WriteLine("Branch Master - Using stash");
   }
 }
